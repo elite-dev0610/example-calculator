@@ -209,15 +209,3 @@ We use [SemVer](http://semver.org/) for versioning. Releases are generated using
 - This project has taken some inspiration from [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) by [@alexjoverm](https://github.com/alexjoverm)
 - The README and CONTRIBUTING files have taken inspiration from [these](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) [gists](https://gist.github.com/PurpleBooth/b24679402957c63ec426) by [@PurpleBooth](https://github.com/PurpleBooth) and the contributing guidelines from [phly](https://github.com/phly/http/blob/master/CONTRIBUTING.md) and [akka](https://github.com/akka/akka-http/blob/master/CONTRIBUTING.md).
 
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/2878342?v=4" width="100px;" alt="Frédérique Mittelstaedt"/><br /><sub><b>Frédérique Mittelstaedt</b></sub>](https://www.gfm.io)<br />[📖](https://github.com/gfmio/example-calculator/commits?author=gfmio "Documentation") [⚠️](https://github.com/gfmio/example-calculator/commits?author=gfmio "Tests") [💻](https://github.com/gfmio/example-calculator/commits?author=gfmio "Code") |
-| :---: |
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
